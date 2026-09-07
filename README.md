@@ -26,9 +26,9 @@ A Python chatbot powered by the Gemini API, featuring:
 - **Other:** Git, API integrations
 
 ## 📫 Get in Touch
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/30JT004)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/aditivikey)
+- Email: aditivikey@gmail.com
 
 ---
 ⭐️ Thanks for stopping by — feel free to explore my repos!
