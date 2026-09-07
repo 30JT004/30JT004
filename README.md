@@ -1,4 +1,4 @@
-# Hi, I'm [ADITI] 👋
+# Hi, I'm ADITI 👋
 
 Aspiring Data Analyst with a passion for turning data into insights. I enjoy working with Python, exploring AI/LLM tools, and building projects that help me learn by doing.
 
@@ -22,7 +22,7 @@ A Python chatbot powered by the Gemini API, featuring:
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, SQL
-- **Data Tools:** [e.g. Pandas, Excel, Power BI, Tableau — fill in yours]
+- **Data Tools:** [e.g. Pandas, Excel, Power BI, Tableau ]
 - **Other:** Git, API integrations
 
 ## 📫 Get in Touch
